@@ -1,4 +1,4 @@
-# CS 455 Artificial Intelligencs SP2025 Final Project - UG-7
+# CS 455 Artificial Intelligence SP2025 Final Project - UG-7
 By: Angelina Buysse, Pranav Ramasahayam William Reimer, Austin Rollfing
 
 ## Project Statement
