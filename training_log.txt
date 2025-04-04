@@ -1,0 +1,60 @@
+---------------[ Epoch 1 ]---------------
+Training Accuracy: 98.32551594746717%
+Average Training Loss: 0.04536709848116152
+Validation Accuracy: 99.33083176985616%
+---------------[ Epoch 2 ]---------------
+Training Accuracy: 99.62163852407755%
+Average Training Loss: 0.011161621019564336
+Validation Accuracy: 99.40587867417136%
+---------------[ Epoch 3 ]---------------
+Training Accuracy: 99.76078799249531%
+Average Training Loss: 0.007260381452782894
+Validation Accuracy: 99.48717948717949%
+---------------[ Epoch 4 ]---------------
+Training Accuracy: 99.89837398373983%
+Average Training Loss: 0.002824514879979688
+Validation Accuracy: 99.59349593495935%
+---------------[ Epoch 5 ]---------------
+Training Accuracy: 99.96404002501563%
+Average Training Loss: 0.0010270481666007072
+Validation Accuracy: 99.66228893058161%
+---------------[ Epoch 6 ]---------------
+Training Accuracy: 99.94996873045653%
+Average Training Loss: 0.0015731818382904521
+Validation Accuracy: 99.58098811757348%
+---------------[ Epoch 7 ]---------------
+Training Accuracy: 99.97967479674797%
+Average Training Loss: 0.0006721072558521542
+Validation Accuracy: 99.66854283927455%
+---------------[ Epoch 8 ]---------------
+Training Accuracy: 99.97967479674797%
+Average Training Loss: 0.0005604473637512513
+Validation Accuracy: 99.63727329580988%
+---------------[ Epoch 9 ]---------------
+Training Accuracy: 99.99218261413384%
+Average Training Loss: 0.0003480200814929475
+Validation Accuracy: 99.61851156973108%
+---------------[ Epoch 10 ]---------------
+Training Accuracy: 100.0%
+Average Training Loss: 8.457025857435951e-05
+Validation Accuracy: 99.64352720450282%
+---------------[ Epoch 11 ]---------------
+Training Accuracy: 99.9953095684803%
+Average Training Loss: 0.00012780474985337698
+Validation Accuracy: 99.64978111319574%
+---------------[ Epoch 12 ]---------------
+Training Accuracy: 99.99843652282676%
+Average Training Loss: 8.159837617532162e-05
+Validation Accuracy: 99.68730456535334%
+---------------[ Epoch 13 ]---------------
+Training Accuracy: 99.99687304565353%
+Average Training Loss: 7.618112030252888e-05
+Validation Accuracy: 99.66854283927455%
+---------------[ Epoch 14 ]---------------
+Training Accuracy: 100.0%
+Average Training Loss: 3.136528535189154e-05
+Validation Accuracy: 99.69355847404628%
+---------------[ Epoch 15 ]---------------
+Training Accuracy: 99.99374609130707%
+Average Training Loss: 0.00013643972132308945
+Validation Accuracy: 99.65603502188868%
