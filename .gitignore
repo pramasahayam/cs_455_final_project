@@ -1,3 +1,4 @@
 data/test_data_v2
 data/train_data
 testing.ipynb
+best_model.pth
